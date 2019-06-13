@@ -10,6 +10,8 @@ namespace Exerciocio04
 
             //Programa para demosntrar o uso de classe Statica!!!
 
+            // Teste
+
 
             Console.Write("Qual é a cotação do Dólar? ");
             double cotacao = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
